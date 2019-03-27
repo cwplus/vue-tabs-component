@@ -1,5 +1,5 @@
 # This package is copy of Spatie vue tabs compoent
-
+https://github.com/spatie/vue-tabs-component
 
 # A Vue component to easily render tabs
 
